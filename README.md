@@ -1,6 +1,6 @@
 # Bikesharing
 
-##Project Overview
+## Project Overview
 The purpose of this project was to aid in the decision making process of key stakeholders for a bike sharing company in Des Moines, Iowa. We used Tableau to create comparison visualizations in NYC of August's peak times, average trip duration, top locations, gender usage and overall number of rides. 
 
 <img width="1295" alt="Screen Shot 2021-01-11 at 5 47 50 PM" src="https://user-images.githubusercontent.com/71476009/104251441-5cb07480-5435-11eb-829b-abd2b412cbab.png">
@@ -14,7 +14,7 @@ Overview of popular Pickup and Dropoff locations in NYC:
 - Data Source: citibike-tripdata.csv
 - Software: Tableau 2019.3, Pandas, Jupyter Notebook
 
-## Summary
+## Results
 
 Among the discoveries while analyzing the data, the notable are seen below: 
 
@@ -33,6 +33,11 @@ While their peak rental time (7am to 11am, 5pm to 7pm) and day (Thursday) are si
 This last image highlights the difference in subscriber versus customer usage and reiterates the heavy amount of male bike rentals during peak hours later in the week. 
 ![Mod 14 User Trips by Gender by Weekday Viz](https://user-images.githubusercontent.com/71476009/104253513-41943380-543a-11eb-9a53-b1233056be8f.png)
 
+## Summary
 
+Reviewing these visuals paints a picture of high usage and high demand for shared bikes in a place like NYC. If Des Moines is anything like NYC I would say it's a good investment. Unfortunately, I have never been to Des Moines and don't have the data to compare. That being said, if the weather permits, and there are more men than women in population, it's probably a good idea. 
+
+To see further information and my breakdown of the module visuals: 
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/cconrad5366#!/")
 
 
