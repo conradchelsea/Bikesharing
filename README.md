@@ -38,6 +38,6 @@ This last image highlights the difference in subscriber versus customer usage an
 Reviewing these visuals paints a picture of high usage and high demand for shared bikes in a place like NYC. If Des Moines is anything like NYC I would say it's a good investment. Unfortunately, I have never been to Des Moines and don't have the data to compare. That being said, if the weather permits, and there are more men than women in population, it's probably a good idea. 
 
 To see further information and my breakdown of the module visuals: 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/cconrad5366#!/")
+[link to dashboard]("https://public.tableau.com/profile/cconrad5366#!/")
 
 
