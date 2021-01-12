@@ -24,7 +24,7 @@ The highest number of bike rentals last within a 4 to 6 hour range.
 In gender comparisons, men tend to ride significantly longer, with a peak at 5 hours in trip duration. 
 ![Mod 14 Checkout Times by Gender](https://user-images.githubusercontent.com/71476009/104252232-27a52180-5437-11eb-8cc4-d57477977ec5.png)
 
-The busiest rental times (as shown here by the darkest color gradient) are Thursday's from 5pm to 7pm. 
+The busiest rental times (as shown here by the darkest color gradient) are Thursdays from 5pm to 7pm. 
 ![Mod 14Trips by Weekday per Hour](https://user-images.githubusercontent.com/71476009/104252915-ddbd3b00-5438-11eb-9e5d-f3ff41084210.png)
 
 While their peak rental time (7am to 11am, 5pm to 7pm) and day (Thursday) are similar, men rent more frequently than women as illustrated below. 
